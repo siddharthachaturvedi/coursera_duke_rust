@@ -4,6 +4,10 @@ Hello, I'm Siddhartha Chaturvedi, a Director of Product Management at Microsoft 
 
 [Rust Programming Specialization on Coursera](https://www.coursera.org/specializations/rust-programming) is enabling me to refine my skills in systems programming. Here, I will be documenting my progress, insights, and projects that I develop as I advance through the courses. The journey covers extensive ground in Rust, from data engineering to DevOps and LLM operations.
 
+## Acknowledgments
+
+A special thank you to my mentors and peers at Microsoft who have supported and inspired me to pursue this, and for the BITS Pilani Education Plus Program for allowing me access to this specialization. 
+
 ## Specialization Overview
 
 Rust is a language empowering everyone to build reliable and efficient software. This specialization has been a thorough adventure through Rust's capabilities, touching on data engineering, Linux tools, DevOps, and Large Language Model (LLM) operations. Each course will bolster my expertise that I have had over the years.
@@ -39,10 +43,6 @@ Rust is a language empowering everyone to build reliable and efficient software.
 ## Connect With Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/siddharth/). I'm always open to discussing technology, product innovation, and collaboration opportunities.
-
-## Acknowledgments
-
-A special thank you to my mentors and peers at Microsoft who have supported and inspired me to pursue this, and for the BITS Pilani Education Plus Program for allowing me access to this specialization. 
 
 ## Licensing
 
