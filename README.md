@@ -1,12 +1,16 @@
 # Duke Rust Specialization Journey
 
-Hello, I'm Siddhartha Chaturvedi, a Director of Product Management at Microsoft and an enthusiast for constant learning. Rust's promise for building reliable and efficient software has captivated me, and through the Duke Rust Specialization, I am eager to deepen my expertise in this innovative language.
+Hello, I'm Siddhartha Chaturvedi, a Director of Product Management at Microsoft and an enthusiast for constant learning. As a part of my re-learning journey, I wanted to push myself to pick languages and use cases that I have not previously explored to code by myself. Rust, one of the most loved languages, has been on my bucket list.
 
-[Rust Programming Specialization on Coursera](https://www.coursera.org/specializations/rust-programming) is enabling me to refine my skills in systems programming. Here, I will be documenting my progress, insights, and projects that I develop as I advance through the courses. The journey covers extensive ground in Rust, from data engineering to DevOps and LLM operations.
+[Rust Programming Specialization on Coursera](https://www.coursera.org/specializations/rust-programming) will reintroduce me to systems programming. Here, I will be documenting my progress, insights, and projects that I develop as I advance through the courses. The journey covers extensive ground in Rust, from data engineering to DevOps and LLM operations.
 
 ## Acknowledgments
 
-A special thank you to my mentors and peers at Microsoft who have supported and inspired me to pursue this, and for the BITS Pilani Education Plus Program for allowing me access to this specialization. 
+I would like to express my gratitude to my mentors and peers at Microsoft for their continuous support and inspiration throughout my journey in the Duke Rust Specialization, especially [**Ethan Jackson**](https://www.microsoft.com/en-us/research/people/ejackson/) and [**Nicolas Villar**](https://www.microsoft.com/en-us/research/people/nvillar/) who have always pushed me to learn and allowed me learn from their experiences. I am also thankful to the **BITS Pilani Education Plus Program** for granting me access to this incredible specialization.
+
+A special shoutout goes to **Alfredo Deza**, the instructor for the Rust Fundamentals course. His engaging teaching style and insightful content have been instrumental in helping me grasp the intricacies of this new language, especially with the assistance of **AI Pair Programming**.
+
+I would also like to extend my appreciation to the **GitHub** team for providing students with free access to ***Codespaces*** and ***CoPilot***. These tools have significantly accelerated my learning process, allowing me to absorb concepts and enhance my skills at an unprecedented pace.
 
 ## Specialization Overview
 
